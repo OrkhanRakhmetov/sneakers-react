@@ -1,6 +1,8 @@
 import Card from "./components/Card";
 import Header from "./components/Header";
 import Drawer from "./components/Drawer";
+import arr from "./utils/utils";
+
 function App() {
   return (
     <div className="wrapper clear">
@@ -18,11 +20,13 @@ function App() {
         </div>
 
         <div className='sneakers d-flex justify-center'>
-          <Card />
+          {arr.map((obj, id) => (
+            <Card  key={id} title={obj.title} price={obj.price} imageUrl={obj.imageUrl} />
+          ))}
         </div>
       </div>
     </div>
-  );
+  )
 }
 
 export default App;
