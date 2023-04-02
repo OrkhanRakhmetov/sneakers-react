@@ -16,6 +16,10 @@
     transform: translateY(-5px);
   }
 
+  .plus {
+    cursor: pointer;
+  }
+
   span {
     font-size: 13px;
     opacity: 0.5;
@@ -32,15 +36,15 @@
   }
 }
 
-.button {
-  width: 32px;
-  height: 32px;
-  background: #FFFFFF;
-  border: 1px solid #F2F2F2;
-  border-radius: 8px;
-  cursor: pointer;
+// .button {
+//   width: 32px;
+//   height: 32px;
+//   background: #FFFFFF;
+//   border: 1px solid #F2F2F2;
+//   border-radius: 8px;
+//   cursor: pointer;
 
-  :hover {
-    opacity: .5;
-  }
-}
+//   :hover {
+//     opacity: .5;
+//   }
+// }
