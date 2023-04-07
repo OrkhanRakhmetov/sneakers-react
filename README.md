@@ -15,11 +15,11 @@
 - Библиотека npm с готовыми классами macro-css 
 
 ## GitHub Pages
-<a>Страница проекта</a>
+<a hres="https://orkhanrakhmetov.github.io/sneakers-react/">Страница проекта</a>
 
 ## Ссылка на макет (Figma)
 <a href="https://www.figma.com/file/fw0toTyXMwM1y4WIe0YFrJ/React-Projects?node-id=0%3A1">Дизайн проект (Figma)</a>
 
 ## Автор
-Орхан Рахметов
+<a href="https://github.com/OrkhanRakhmetov">Орхан Рахметов</a>
 
