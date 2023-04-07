@@ -1,17 +1,15 @@
-# Проект: Sneakers-React
-
-## Обзор
-Интернет-магазин по продаже красовок.
+# Проект: Интернет-магазин кроссовок - React Sneakers
 
 ## Используемые техники и технологии
-- React
+- ReactJS  + хуки
 - React Router
 - React Context
+- React Skeleton
 - react-slick
 - JSX
 - Java Script
 - html
-- SASS / CSS Modules
+- SCSS / CSS Modules
 - Axios
 - адаптивная верстка (Flexbox)
 - Библиотека npm с готовыми классами macro-css 

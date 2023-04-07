@@ -3,7 +3,7 @@ body {
   font-family: 'Inter', system-ui, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(212, 241, 232);
+  background-color: rgb(215, 212, 241);
   margin: 0 auto;
 }
 
@@ -146,6 +146,11 @@ header {
 
   .greenBtn {
     position: relative;
+
+&:disabled{
+  background-color: #d3cece;
+  cursor: default;
+}
 
     &:hover {
       img {
